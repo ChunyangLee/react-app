@@ -16,3 +16,38 @@ plice方法， 操作原数组，
 
 filter方法
 ```
+
+```javascript
+## 画dag的探索
+https://wimyedema.medium.com/drawing-dags-5cadcb452115
+
+dagre-d3， currently it is the best option for DAG drawing,
+
+## 悬浮解决方案，
+https://dagrejs.github.io/project/dagre-d3/latest/demo/hover.html
+
+
+## 使用dagre-d3做一个dag图（关系图） demo
+https://www.mk2048.com/blog/blog_0c0icbchaa.html
+## react demo
+https://codesandbox.io/s/ktrbg?file=/src/index.js
+```
+
+## 补习欠缺知识
+
+
+
+```javascript
+Es6风格
+发请求axios
+Promise实例，
+express 搭建前端服务器
+```
+
+## 解决跨域问题
+
+
+
+```javascript
+## 
+```
